@@ -78,16 +78,6 @@ https://github.com/emiraslan37/BattlefieldOS
 
 ---
 
-## Tech Stack
-
-* HTML5
-* CSS3
-* JavaScript
-* Modern UI animations
-* Custom military-inspired design system
-
----
-
 ## Screenshots
 
 ![Drone Control](./screenshots/drone-control.png)
@@ -99,25 +89,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/emiraslan37/BattlefieldOS.git
 ```
-
-Navigate into the project:
-
-```bash
-cd BattlefieldOS
-```
-
-Run locally:
-
-```bash
-# Simply open index.html
-```
-
-Or use a local server:
-
-```bash
-npx serve
-```
-
 ---
 
 ## Project Philosophy
