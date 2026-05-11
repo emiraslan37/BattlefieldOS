@@ -90,13 +90,7 @@ https://github.com/emiraslan37/BattlefieldOS
 
 ## Screenshots
 
-> Add your screenshots here
-
-```md
 ![Drone Control](./screenshots/drone-control.png)
-```
-
----
 
 ## Installation
 
